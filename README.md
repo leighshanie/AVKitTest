@@ -12,7 +12,7 @@
 ## Features
 
 ## Requirements
-- [x]iOS 14+
+- [x] iOS 14+
 - [x] Not working on simulator
 
 ## Installation
